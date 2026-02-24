@@ -39,7 +39,7 @@ Deep learning model generating synthetic leaf images using GAN to improve classi
 
 ### 📫 Contact
 📧 kuruvapavanipadma73@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/pavani-padma-kuruva-b88970285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🔗 LinkedIn: 🔗 LinkedIn: https://www.linkedin.com/in/pavani-padma-kuruva-b88970285
 💻 GitHub:
 
 🔹 [Smart Service Chatbot](https://github.com/Pavani5689/Chatbot)  
